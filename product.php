@@ -24,6 +24,4 @@ class product{
         return $this->price;
     }
 }
-
-    // $pro = new product("test" , 999 , "test" , "test");
-    // echo $pro->calcPrice();
+?>

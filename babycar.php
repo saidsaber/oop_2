@@ -37,7 +37,7 @@ class babycar extends product{
     }
 }
 
-$baby1 =new babycar("test" , "name" , 999 , "discription" , "babycar.png");
+$baby1 =new babycar("test" , "name" , 999 , "عربة اطفال" , "babycar.png");
 
 $baby1->setMaterial("test2");
 $baby1->setMaterial("test3");
